@@ -13,7 +13,7 @@ of circles to construct influential regions.
 
 Reference:
 1] Mosler, K. and Mozharovskyi, P. (2002), Choosing among notions of multivariate depth statistics, Statistical Science,
-37(3), 348–368.
+37(3), 348–368.\\
 [2] Zuo, Y. and R. Serfling (2000). General notions of statistical depth function. The Annals of Statistics 28 (2), 461-482.
 [3] Rousseeuw, P. J., I. Ruts, and J. W. Tukey (1999). The bagplot: a bivariate boxplot. The American Statistician 53 (4),
 382-387.
